@@ -1,7 +1,7 @@
 # Releasing Rails
 
-In this document, we'll cover the steps necessary to release Rails. Each
-section contains steps to take during that time before the release. The times
+In this document, we'll cover the steps necessary to release Rails. Each 
+section wil contain steps to take during that time before the release. The times
 suggested in each header are just that: suggestions. However, they should
 really be considered as minimums.
 
